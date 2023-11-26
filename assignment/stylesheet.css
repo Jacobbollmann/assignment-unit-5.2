@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  background-image:url("./record.png");
+  background-repeat: repeat;
+}
+
+.header{
+  background-color: black;
+  color: pink;
+  text-align: center;
+}
+
+.main{
+  background-color: lightgray;
+  padding: 1em;
+}
+
+#assignmentTitle{
+  font-size: 20px;
+  color: rgba(183, 179, 179, 0.5)
+}
+
+#storeName{
+  font-size: 50px;
+}
